@@ -1,13 +1,10 @@
+
 {
-  "runs": [
-{"id": 1, "output_url": "https://commuter-d4anno4aha-an.a.run.app/view/nes/2020-03-11/202003110705-db05cbbc-6e35-44dd-9bb5-2aef2ef60072"},
-{"id": "202003110705-db05cbbc-6e35-44dd-9bb5-2aef2ef60072", "output_url": "https://commuter-d4anno4aha-an.a.run.app/view/nes/2020-03-11/202003110705-db05cbbc-6e35-44dd-9bb5-2aef2ef60072"},
-{"id": "202003110709-f53148cf-dbb3-4b8c-a83d-cec792d940c7", "output_url": "https://commuter-d4anno4aha-an.a.run.app/view/nes/2020-03-11/202003110709-f53148cf-dbb3-4b8c-a83d-cec792d940c7"},
-{"id": "202003110713-dd4fcd48-b057-42c3-a769-24f496326871", "output_url": "https://commuter-d4anno4aha-an.a.run.app/view/nes/2020-03-11/202003110713-dd4fcd48-b057-42c3-a769-24f496326871"},
-{"id": "202003110714-0b76a351-17ea-49d3-83af-c250cccd70fb", "output_url": "https://commuter-d4anno4aha-an.a.run.app/view/nes/2020-03-11/202003110714-0b76a351-17ea-49d3-83af-c250cccd70fb"},
-{"id": "202003110720-f8be5d67-c9d2-4861-85a4-db81d12fe690", "output_url": "https://commuter-d4anno4aha-an.a.run.app/view/nes/2020-03-11/202003110720-f8be5d67-c9d2-4861-85a4-db81d12fe690"},
-{"id": "202003110723-dd5825eb-4f83-47aa-bcae-93fcd7af8944", "output_url": "https://commuter-d4anno4aha-an.a.run.app/view/nes/2020-03-11/202003110723-dd5825eb-4f83-47aa-bcae-93fcd7af8944"},
-{"id": "202003110728-faad9e88-a182-4f33-a964-d79b09921c4f", "output_url": "https://commuter-d4anno4aha-an.a.run.app/view/nes/2020-03-11/202003110728-faad9e88-a182-4f33-a964-d79b09921c4f"}  ],
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
